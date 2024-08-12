@@ -1,0 +1,7 @@
+1.Theme implementation - Done
+2.Localization - Done
+3.Audio and video DLC via Addressables -  Done
+4.Save Game moves in json for different platform - Done
+5.json save for different platform - Done
+6.Event and delegates are used - Done
+7.Flexible UI which supports different resolutions - Done
